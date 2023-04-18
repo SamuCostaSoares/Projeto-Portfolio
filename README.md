@@ -1,18 +1,25 @@
 ## Portfólio para Estudo (Programação)
 
-- Leitura objetiva
-- Fazer um site se adaptar ao tamanho da tela.
+- Leitura objetiva;
+- Fazer um site se adaptar ao tamanho da tela;
 
 ## Ideia inicial portfólio
 
-1 - Códigos
+1 - Linguagens
 
-2 - Projetos
+Qual linguagem usar para criar um portfolio? 
 
-### O que adicionar no portfólio??
+- HTML/CSS
+- JavaScript
+- React
 
-- trabalhos de faculdade;
-- projetos pessoais;
+2 - Projetos - Layout
+
+Seção “sobre mim” / Projetos Pessoais Finalizados e Andamento / Links úteis
 
 ## Design portfólio
+
+- Um página (Minimalista)   
+
+- Cor
 
