@@ -9,7 +9,7 @@
 
 Qual linguagem usar para criar um portfolio? 
 
-- HTML/CSS
+- Gatsby
 - JavaScript
 - React
 
@@ -23,3 +23,6 @@ Seção “sobre mim” / Projetos Pessoais Finalizados e Andamento / Links úte
 
 - Cor
 
+## Projeto Futuro 
+
+...loading (blog em python)
